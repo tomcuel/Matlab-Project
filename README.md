@@ -1,6 +1,6 @@
 Ce projet a été réalisé dans le cadre d'un cours d'informatique d'introduction à Matlab 
 
-En binôme, nous avons du explorer l'univers de Matlab par quelques TD premièrement avant de se consacrer à ce projet 
+En binôme, nous avons du explorer l'univers de Matlab par quelques TD premièrement avant de se consacrer à ce projet. 
 
 Notre sujet est intitulé "Calcul Scientifique : EDP et optimisation". 
 Le problème consiste à déterminer la carte des températures dans un four destiné à la cuisson d’une pièce thermoformée (ici un pare-chocs).
